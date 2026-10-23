@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+lakehouse/
+.sparkStaging/
+.DS_Store

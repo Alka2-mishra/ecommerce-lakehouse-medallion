@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,status
+O1001,C01,2026-01-02 10:15:00,delivered
+O1002,C02,2026-01-02 12:30:00,delivered
+O1003,C01,2026-01-03 09:00:00,shipped
+O1004,C03,2026-01-04 15:45:00,delivered
